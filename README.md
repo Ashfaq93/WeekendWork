@@ -1,4 +1,4 @@
-# randomWork
+# WeekendWork
 
 Deep feedword neural networks
 
@@ -11,4 +11,13 @@ optimization function (optimizer) -> minimizing cost (adagrad, adamoptimizer, sg
 back prop
 
 feed forward + backprop = epoch
+'''
+
+
+2
+
+'''
+Food personaliation.
+Yelp scraper using selenium and beautifulsoup
+
 '''
