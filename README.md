@@ -1,4 +1,6 @@
 # WeekendWork
+1.
+
 
 Deep feedword neural networks
 
@@ -21,6 +23,9 @@ Food personaliation.
 Yelp scraper using selenium and beautifulsoup
 
 '''
+
+
+
 3
 
 '''
