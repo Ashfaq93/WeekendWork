@@ -1,4 +1,6 @@
 # WeekendWork
+1.
+
 
 Deep feedword neural networks
 
@@ -19,5 +21,25 @@ feed forward + backprop = epoch
 '''
 Food personaliation.
 Yelp scraper using selenium and beautifulsoup
+
+'''
+
+
+
+3
+
+'''
+
+Text messeages Spam/ham classification 
+
+Data import,
+data analysis,
+
+Punctuation removal,
+stop work removal,
+
+feature engineering: char count, word count, tfidf 
+
+Model building: random forests, svc with grid search.
 
 '''
